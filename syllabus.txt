@@ -1,0 +1,7 @@
+Syllabus for Python course - 
+1. Python basics
+2. Flow control
+3. Functions
+4. Lists
+5. Dictionaries
+6. Manipulating strings
