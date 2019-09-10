@@ -2,8 +2,8 @@ Syllabus for Python course(This is the initial syllabus. It can be modified at a
 1. Python basics
 2. Flow control
 3. Functions
-4. Lists
-5. Dictionaries
+4. List
+5. Dictionarie
 6. Manipulating strings
 7. Python OOP
 8. Regular expression
@@ -11,6 +11,12 @@ Syllabus for Python course(This is the initial syllabus. It can be modified at a
 10. Python threading and concurrency
 
 
-***************************************
-Project concept will be added soon.
-***************************************
+#############################################
+#### Project concept will be added soon. ####
+#############################################
+
+Every section will be divided into three parts. Those three parts are as follows - 
+1. Basic introduction with few lines of code examples.
+2. Quizzes and small programming problems to clear concepts.
+3. Few algorithmic problem descriptions. Number of problems in this section will be 
+determined dynamically based on the situation.
