@@ -1,7 +1,16 @@
-Syllabus for Python course - 
+Syllabus for Python course(This is the initial syllabus. It can be modified at any moment)
 1. Python basics
 2. Flow control
 3. Functions
 4. Lists
 5. Dictionaries
 6. Manipulating strings
+7. Python OOP
+8. Regular expression
+9. Exception handling
+10. Python threading and concurrency
+
+
+***************************************
+Project concept will be added soon.
+***************************************
